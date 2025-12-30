@@ -12,7 +12,7 @@ J’aime apprendre en construisant des projets concrets, parfois avec l’aide d
 ## 🛠️ Technologies
 - Mes Utilisations:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,discord,vscode,instagram,gmail,mint,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,discord,vscode,instagram,gmail,windows,git,github)](https://skillicons.dev)
 
 - Outils d’IA 
 
