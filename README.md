@@ -5,7 +5,7 @@ Je m’intéresse à la création de sites web modernes.
 J’aime apprendre en construisant des projets concrets, parfois avec l’aide d’outils d’IA.
 
 ## Ce que je fais actuellement
-- Développement de projets frontend (HTML, CSS)
+- Développement de projets (HTML, CSS et Javascript au besoin)
 - Expérimentation avec des outils d’IA pour accélérer le développement
 - Amélioration de mes bases en web
 
