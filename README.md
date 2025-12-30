@@ -1,5 +1,5 @@
 # Read.me
-#  Salut, moi je suis [ROIGOATZZZ] !!
+#  Salut, moi je suis ROIGOATZZZ !!
 
 Je m’intéresse à la création de sites web modernes.  
 J’aime apprendre en construisant des projets concrets, parfois avec l’aide d’outils d’IA.
