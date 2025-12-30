@@ -1,4 +1,4 @@
-# Read.me
+# ReadME
 #  Salut, moi je suis ROIGOATZZZ !!
 
 Je m’intéresse à la création de sites web modernes.  
