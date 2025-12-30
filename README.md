@@ -10,9 +10,8 @@ J’aime apprendre en construisant des projets concrets, parfois avec l’aide d
 - Amélioration de mes bases en web
 
 ## 🛠️ Technologies
-- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,discord,vscode,instagram,gmail,mint)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,discord,vscode,instagram,gmail,mint,git,github)](https://skillicons.dev)
 
-- Git / GitHub
 - Outils d’IA (assistant de code)
 
 ## 📌 Projets
