@@ -23,7 +23,7 @@ J’aime apprendre en construisant des projets concrets, parfois avec l’aide d
 
 - **Projets personnels** 
 
-  [Wallsync](https://wallsync.pages.dev/) , [2](https://roigoatzzz.github.io/Wallsync/)
+  [Wallsync](https://wallsync.pages.dev/) , [Github](https://github.com/roigoatzzz/Wallsync)
 
   [Super-Snake](https://super-snake.pages.dev/)
 
