@@ -2,7 +2,7 @@
 #  Salut, moi je suis ROIGOATZZZ !!
 
 Je m’intéresse à la création de sites web modernes.  
-J’aime apprendre en construisant des projets concrets, parfois avec l’aide d’outils d’IA.
+Utilisation d’outils d’IA comme support pédagogique et assistant de développement. »
 
 ## Ce que je fais actuellement
 - Développement de projets (HTML, CSS et Javascript au besoin)
